@@ -1,5 +1,7 @@
+// Reverse constant string
 #include <stdio.h>
 #include <stdlib.h>
+
 char *reverse(const char *);
 void main()
 {
