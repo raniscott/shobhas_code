@@ -27,10 +27,4 @@ char *reverse(const char *string1)
 
 	return revtext;
 
-//	printf("rever string in fun is %s\n", revtext);
-
-//	for(i=0; i<=length; i++)
-//		revtext--;
-
-//	printf("reverse string is %s\n", revtext);
 }
